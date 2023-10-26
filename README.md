@@ -1,6 +1,6 @@
 # node-red-contrib-udmx
 A node for outputting DMX through a USB dongle
-
+Pakeistas id 
 This node looks for a UDMX dongle with USB ID 16c0:05dc and allows a single DMX channel to be set to a value.
 
 It works with the Chinese usb to DMX adapters readily available (e.g. search ebay for "usb dmx").
